@@ -15,23 +15,23 @@ def rectangle(horizontal,vertical,color):
 
 t.penup()
 t.speed('slow')
-t.bgcolor('Dodger blue')
+t.bgcolor('marron')
 
 #feet
 t.goto(-100, -150)
-rectangle(50,20,'blue')
+rectangle(50,20,'gold')
 t.goto(-30,-150)
-rectangle(50,20,'blue')
+rectangle(50,20,'gold')
 
 #legs
 t.goto(-25, -50)
-rectangle(15,100,'grey')
+rectangle(15,100,'deeppink')
 t.goto(-55,-50)
-rectangle(-15,100,'grey')
+rectangle(-15,100,'deeppink')
 
 #body
 t.goto(-90,100)
-rectangle(100,150,'red')
+rectangle(100,150,'peachpuff')
 
 #arms
 t.goto(-150, 70)

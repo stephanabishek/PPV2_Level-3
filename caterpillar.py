@@ -1,11 +1,11 @@
 import turtle as t
 import random as rd
 
-t.bgcolor('yellow')
+t.bgcolor('peru')
 
 caterpillar = t.Turtle()
 caterpillar.shape('square')
-caterpillar.color('red')
+caterpillar.color('yellow')
 caterpillar.speed(0)
 caterpillar.penup()
 caterpillar.hideturtle()

@@ -31,7 +31,7 @@ rectangle(-15,100,'deeppink')
 
 #body
 t.goto(-90,100)
-rectangle(100,150,'peachpuff')
+rectangle(100,150,'red')
 
 #arms
 t.goto(-150, 70)
